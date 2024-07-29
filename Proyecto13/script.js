@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function(){
         }
 
         // Show computer selection
-        computerImg.src = "assets/" + optionComputer + ".png";
+        computerImg.src = "assets/img/" + optionComputer + ".png";
 
 
         // Check for end of the game
